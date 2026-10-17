@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+arduino_secrets.h
+*.bin
+*.elf
+*.hex
+*.o
+build/
+.DS_Store
+Thumbs.db
